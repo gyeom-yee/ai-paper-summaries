@@ -21,7 +21,7 @@
 - polarity detection: 텍스트 T가 입력으로 주어졌을 때, 그 내용에 따라 T가 긍정/부정/중립 의견을 포함하는지 판단하고 그 내용이 얼마나 긍정/부정적인지 강도 파라미터를 도출 (리뷰, 정치 같은 여론 분석에 많이 쓰임)
 - SA 맥락에서 널리 쓰이는 기본 감정 정의: 플루치크, 아놀드, 에크먼 이론
 
-![기본 감정 정의](./img/image.png)
+![기본 감정 정의](https://github.com/gyeom-yee/ai-paper-summaries/assets/78156719/b8fd6d1c-0280-45ce-96f3-81ae9cb88cfb)
 
 - Ⅰ. Sentiment Analysis (SA): 
   - "Given an input text T and a list $E = [E_1, ··· , E_k]$ of basic emotions type determine, on the basis of its content, whether the text $T$ contains one or more of the emotions $E_i$ for $i = 1 ··· k$ and what is the respective strength $s_i$ ."
@@ -51,7 +51,7 @@
 3) 일관된 정보로 병합된 Result (Serving layer)를 의사 제공
 
 <!-- ![Architecture of the proposed system for depression monitoring](./img/Architecture%20of%20the%20proposed%20system%20for%20depression%20monitoring.png) -->
-![Workflow for data acquisition and analysis](./img/Workflow%20for%20data%20acquisition%20and%20analysis.png)
+![Workflow for data acquisition and analysis](https://github.com/gyeom-yee/ai-paper-summaries/assets/78156719/78984b3b-eeee-4637-89d3-bb4ed3d9eb29)
 
 ### 🎯 Conclusion
 - 우울증 상태 모니터링을 위한 SA 및 AC 방법론 기반 통합 멀티 모달 시스템 예비 설계 제시
